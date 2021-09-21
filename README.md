@@ -1,2 +1,3 @@
-# Sales-Forecast-Analysis--SAS-Project
-The project uses predictive analysis technique to predict Sales based on several independent variables
+Smartphone Sale Analysis & Forecast
+Smartphone sales depend upon a number of factors such as cost, features offered, and the review ratings by critics and users. Current stock market indicators can also affect the sales because they indicate the overall state of economy and indicate the amount of spare money available to people. If the stock market is doing well, there is a chance that spare money is available to people, which can be diverted to the purchase of new smartphones. The sale of a new phonemodel is also dependent upon the marketing money spent by the phone manufacturer.
+The given project aims to construct a model to predict sales based on numerous factors.
